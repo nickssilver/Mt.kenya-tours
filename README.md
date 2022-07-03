@@ -12,6 +12,36 @@ system that performs all operations related to traveling, booking, sightseeing, 
 directly, provides a feedback mechanism for tourists, maintains and controls the database of tourists’ information, and gives a
 variety of travel services. 
 
+## Modules of Tourism Management System in PHP
+- Admin
+- Users
+- Guest users
+### Users—
+
+- User can register yourself.
+- User can log in with valid email and password.
+- Forgot Password(user Can recover own password)
+- Tour Booking
+- Manage Booking
+- Generate Ticket(Regarding Complaint)
+- change Password
+### Admin–
+
+- Admin can create Package
+- Manage packages(Create,Update)
+- Manage Users
+- Manage Inquiries
+- Manage issues
+- Manage Booking
+- Manage Pages
+- Change Password
+- Admin Dashboard
+### Guest users—
+
+- Visit the Website
+- Guest user can enquiry
+
+
 ## Conclusion
 Tourism is currently recognized as a global industry that is growing at a high rate, like any other industry. 
 This web-based application helps in maintaining the database. It has a friendly environment that connects customers willingly.
