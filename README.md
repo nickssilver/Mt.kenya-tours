@@ -48,3 +48,7 @@ This web-based application helps in maintaining the database. It has a friendly 
 Thus, it simplifies the process by saving our time and efforts. It will help tour managers to control and handle the tour-related 
 activities effectively and efficiently. A further modification could be possible where the system can be integrated with bigger 
 organizations such as tourist agencies in order to help them.
+
+---
+Need help *info@pronic.co.ke*
+---
