@@ -298,7 +298,7 @@ foreach($results as $result)
 		<div class="col-md-6 animate-box">
 			<div class="video-wrap">
 				<div class="video colorlib-video" style="background-image: url(images/img_bg_2.jpg);">
-					<a href="https://vimeo.com/channels/staffpicks/93951774" class="popup-vimeo"><i class="icon-video"></i></a>
+					<a href="https://vimeo.cm/channels/staffpicks/93951774" class="popup-vimeo"><i class="icon-video"></i></a>
 					<div class="video-overlay"></div>
 				</div>
 			</div>
